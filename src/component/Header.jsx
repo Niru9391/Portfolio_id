@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../image/logo.jpg";
+import logo from "../image/Logo.jpg";
 import { MdDarkMode, MdLightMode } from "react-icons/md";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { Link } from 'react-router-dom';
