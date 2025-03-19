@@ -1,5 +1,5 @@
 import React from 'react';
-import reactLogo from '../image/reactLogo.jpg';
+import reactLogo from '../image/reactlogo.jpg';
 import nodejsLogo from '../image/nodejs.png';
 import jsLogo from '../image/Js.png';
 import htmlLogo from '../image/html.png';
