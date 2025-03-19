@@ -1,14 +1,14 @@
 import React from 'react';
-import reactLogo from '../image/reactlogo.jpg';
-import nodejsLogo from '../image/nodejs.png';
-import jsLogo from '../image/Js.png';
-import htmlLogo from '../image/html.png';
-import cssLogo from '../image/css.png';
-import tailwindLogo from '../image/tailwind.png';
-import bootstrapLogo from '../image/bootstrap.png';
-import mongodbLogo from '../image/Mongodb.png';
-import expressLogo from '../image/express.png';
-import pythonLogo from '../image/python.png';
+import reactLogo from '../image/reactlogo.webp';
+import nodejsLogo from '../image/nodejs.webp';
+import jsLogo from '../image/Js.webp';
+import htmlLogo from '../image/html.webp';
+import cssLogo from '../image/css.webp';
+import tailwindLogo from '../image/tailwind.webp';
+import bootstrapLogo from '../image/bootstrap.webp';
+import mongodbLogo from '../image/Mongodb.webp';
+import expressLogo from '../image/express.webp';
+import pythonLogo from '../image/python.webp';
 
 export default function Skills() {
   const techs = [

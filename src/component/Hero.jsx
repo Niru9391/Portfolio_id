@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import profile from "../image/Img_nir.jpg";
+import profile from "../image/Img_nir.webp";
 import Starsky from './Starsky'
 export default function Hero({ darkMode }) {
   const [animateImage, setAnimateImage] = useState(false);
