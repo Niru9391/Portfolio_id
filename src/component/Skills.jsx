@@ -8,7 +8,7 @@ import tailwindLogo from '../image/tailwind.png';
 import bootstrapLogo from '../image/bootstrap.png';
 import mongodbLogo from '../image/Mongodb.png';
 import expressLogo from '../image/express.png';
-import pythonLogo from '../image/Python.png';
+import pythonLogo from '../image/python.png';
 
 export default function Skills() {
   const techs = [
