@@ -37,6 +37,7 @@ export default function Skills() {
   alt={tech.name}
   className=" transition-transform duration-300 ease-in-out transform hover:scale-110 
   h-5 w-5 sm:h-16 sm:w-16 md:h-20 md:w-20 lg:h-24 lg:w-24 xl:h-28 xl:w-28"
+  loading='lazy'
 />
 
           </div>
