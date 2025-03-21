@@ -17,6 +17,11 @@ const projects = [
     link: 'https://github.com/Niru9391/Randomdice',
   },
   {
+    title: 'Todo Application',
+    description: 'Developed a task management app using React.js with features for adding, and deleting tasks.',
+    link: 'https://github.com/Niru9391/todo',
+  },
+  {
     title: 'Color-Recognition-App',
     description: 'Developed a Color Recognition app using OpenCv which will display the the Color name and the Combnation of RGB .',
     link: 'https://github.com/Niru9391/Color-Recognition-App',
