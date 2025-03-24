@@ -18,8 +18,8 @@ const projects = [
   },
   {
     title: 'Todo Application',
-    description: 'Developed a task management app using React.js with features for adding, and deleting tasks.',
-    link: 'https://github.com/Niru9391/todo',
+    description: 'Simple todo application using the html,css and javascript, and store the task in localstorage.',
+    link: 'https://github.com/Niru9391/Todo',
   },
   {
     title: 'Color-Recognition-App',
