@@ -26,7 +26,7 @@ export default function Hero({ darkMode }) {
       <img
         src={profile}
         alt="Profile"
-        className={`w-40 h-40 rounded-full border-4 border-white shadow-lg object-cover mr-8 transform transition-transform duration-700 ${
+        className={`w-60 h-60 rounded-full border-4 border-white shadow-lg object-cover mr-8 transform transition-transform duration-700 ${
           animateImage ? "translate-x-0 translate-y-0" : "-translate-x-[100vw]"
         }`}
       />
