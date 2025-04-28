@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import profile from "../image/Img_nir.webp";
 import Starsky from './Starsky'
+import About from "./About";
+import Contact from "./Contact";
+import Projects from "./Projects";
 export default function Hero({ darkMode }) {
   const [animateImage, setAnimateImage] = useState(false);
   const [animateUpperText, setAnimateUpperText] = useState(false);
@@ -13,6 +16,7 @@ export default function Hero({ darkMode }) {
   }, []);
 
   return (
+    <>
     <div
       className={`min-h-screen w-full flex items-center justify-center transition-all duration-300 ${
         darkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-black"
@@ -45,5 +49,9 @@ export default function Hero({ darkMode }) {
       </div>
       <Starsky/>
     </div>
+   <About/>
+   <Projects/>
+    <Contact />
+</>
   );
 }
